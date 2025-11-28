@@ -147,12 +147,12 @@ export default class App extends Component {
           </div>
             <div className="content-right image-layout">
   <img 
-    src="/image.jpg" 
+    src="image.jpg" 
     alt="Event Planning" 
     className="hero-image" 
   />
   <img 
-    src="/image2.jpg" 
+    src="image2.jpg" 
     alt="Conference Venue" 
     className="hero-image" 
   />
